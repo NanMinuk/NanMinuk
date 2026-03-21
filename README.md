@@ -1,6 +1,6 @@
 ## Minuk Kim
 
-Building AI systems at the intersection of LLMs and Graphs.  More details are on [Research Portfolio (Notion)](https://loving-lift-e2c.notion.site/7cbedc6a958f4e6cb017d2c197a0bf7d?v=2d3fe2c384d64f88b3300cfdeb7dd02a)
+Building AI systems at the intersection of LLMs and Graphs.<br>More details are on [Research Portfolio (Notion)](https://loving-lift-e2c.notion.site/7cbedc6a958f4e6cb017d2c197a0bf7d?v=2d3fe2c384d64f88b3300cfdeb7dd02a)
 
 - 2019–2024: B.S. in Computer Science, University of Seoul
 - 2024–Present: M.S. in Computer Science, University of Seoul
