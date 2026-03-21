@@ -6,7 +6,7 @@ Building AI systems at the intersection of LLMs and Graphs.
 
 - Context–Relation Alignment in Document-Level Relation Extraction via Prompt Graphs
 DASFAA 2026, to appear
-Designing an LLM-based App to Improve Smartphone Usage Skills among Older Adults
+- 노인의 스마트폰 사용 능력 향상을 위한 대형언어모델 기반 앱 디자인 
 HCI Korea 2024
 <!--
 **NanMinuk/NanMinuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
