@@ -13,6 +13,19 @@ Building AI systems at the intersection of LLMs and Graphs.
 - **Designing an LLM-based App to Improve Smartphone Usage Skills among Older Adults**  
   *(노인의 스마트폰 사용 능력 향상을 위한 대형언어모델 기반 앱 디자인)*  
   *HCI Korea 2024*
+  
+## Representative Repositories
+
+- **CRAG**  
+  Official implementation of **CRAG**, a prompt-graph-based DocRE model for context–relation alignment.  
+  *Accepted to DASFAA 2026.*
+
+- **g-doctor**  
+  Source code for an LLM-based application designed to improve smartphone usage skills among older adults.  
+  *Presented at HCI Korea 2024.*
+
+- **FinGraph-Analyst**  
+  A GraphRAG-based investment research agent that extracts relations from financial documents and supports structured analysis.
 <!--
 **NanMinuk/NanMinuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
