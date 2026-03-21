@@ -4,7 +4,7 @@ Building AI systems at the intersection of LLMs and Graphs.
 - 2024–Present: M.S. in Computer Science, University of Seoul
 ## Publications / Research
 
-Context–Relation Alignment in Document-Level Relation Extraction via Prompt Graphs
+- Context–Relation Alignment in Document-Level Relation Extraction via Prompt Graphs
 DASFAA 2026, to appear
 Designing an LLM-based App to Improve Smartphone Usage Skills among Older Adults
 HCI Korea 2024
