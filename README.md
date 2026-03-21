@@ -1,5 +1,5 @@
 ## Minuk Kim
-
+Building AI systems at the intersection of LLMs and Graphs.
 <!--
 **NanMinuk/NanMinuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
