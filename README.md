@@ -11,7 +11,7 @@ Building AI systems at the intersection of LLMs and Graphs.<br>More details can 
 - **Context–Relation Alignment in Document-Level Relation Extraction via Prompt Graphs**  
   *DASFAA 2026
   
-- **Dynamic Exploitation of Source Experts for Few-Shot Node Classification on Text-Attributed Graphs **  
+- **Dynamic Exploitation of Source Experts for Few-Shot Node Classification on Text-Attributed Graphs**  
   *CIKM 2026 | Under Review
 
 - **Designing an LLM-based App to Improve Smartphone Usage Skills among Older Adults**  
