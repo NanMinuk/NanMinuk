@@ -10,8 +10,8 @@ Building AI systems at the intersection of LLMs and Graphs.<br>More details can 
 ### NAVER | AI Research Intern, AirSPACE Intelligence
  May 2026 – Aug 2026
 
-Optimized personalized recommendation models for efficient inference and deployment.
-Built an LLM-as-a-Judge evaluation pipeline for automated model quality assessment.  
+- Optimized personalized recommendation models for efficient inference and deployment.
+- Built an LLM-as-a-Judge evaluation pipeline for automated model quality assessment.  
 
 ## Publications / Research
 
