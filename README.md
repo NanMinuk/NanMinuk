@@ -4,7 +4,14 @@ Building AI systems at the intersection of LLMs and Graphs.<br>More details can 
 
 - 2019–2024: B.S. in Computer Science, University of Seoul
 - 2024–Present: M.S. in Computer Science, University of Seoul
-  
+
+
+## Experience
+### NAVER | AI Research Intern, AirSPACE Intelligence
+ May 2026 – Aug 2026
+
+Optimized personalized recommendation models for efficient inference and deployment.
+Built an LLM-as-a-Judge evaluation pipeline for automated model quality assessment.  
 
 ## Publications / Research
 
