@@ -7,7 +7,7 @@ Building AI systems at the intersection of LLMs and Graphs.<br>More details can 
 
 
 ## Experience
-### NAVER | AI Research Intern, AirSPACE Intelligence
+#### NAVER | AI Research Intern, AirSPACE Intelligence
  May 2026 – Aug 2026
 
 - Optimized personalized recommendation models for efficient inference and deployment.
